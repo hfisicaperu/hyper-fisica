@@ -27,7 +27,7 @@ body {
 }
 
 .logo-img {
-    height: 90px; /* Ajusta la altura del logo según tu preferencia */
+    height: 120px; /* Ajusta la altura del logo según tu preferencia */
     width: auto;
     object-fit: contain;
     border-radius: 6px;
